@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fitritekweb133"
+    }
+  },
+  "defaultProject": "fitritekweb133",
+  "cli": {
+    "analytics": "821bd562-32bf-4964-8748-56edf93af499"
+  }
 }

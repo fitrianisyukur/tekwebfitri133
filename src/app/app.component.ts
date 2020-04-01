@@ -2,9 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  templateUrl: './Halaman utama.html',
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fitritekweb133';
-}
+  title = 'fitritekweb133'; 
+ }
